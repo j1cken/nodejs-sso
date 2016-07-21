@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-sso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "keycloak-connect": "^0.2.1",
+    "express-session": "^1.14.0",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j1cken/nodejs-sso.git"
+  },
+  "keywords": [
+    "nodejs",
+    "sso"
+  ],
+  "author": "Torben Jaeger",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/j1cken/nodejs-sso/issues"
+  },
+  "homepage": "https://github.com/j1cken/nodejs-sso#readme"
+}

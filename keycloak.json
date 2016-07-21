@@ -1,0 +1,10 @@
+{
+  "realm": "myssorealm",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0KyTB2F+/mdJDw0X4piXrXJxezv6PPhNrvpR1BSTQHfRS/c3HvRO675lygbPSj8FEmi7fETAU0CRrh3TVJuN5rLTyskXT75BxOjDNAceBPAM4wmQ0pOe6MIO1KsAETHwR4ZtOWzdLMbwuWHuX26oF3s4vJJ/u7NTcSdKCKwoIO2Cp9b9BIsCH92+rY3tE0f9DZebYwP3igmvtXBWdwO2oZABBWFCnz887u8ePx+IZMEUoPivR5xh576apUwyxdka3T3e9k+LjWxunBn/etXuqMic1XZp82pKzE4M1ZN/CCaJfrnheCXwp9lavXkQiBuu+G7QMPQEBluwQyKXFx6w6QIDAQAB",
+  "auth-server-url": "http://sso-sso.rhcloud.example.com/auth",
+  "ssl-required": "external",
+  "resource": "nodejs-example",
+  "credentials": {
+    "secret": "eee3d4f3-992a-4788-a851-d66863773751"
+  }
+}
