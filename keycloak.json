@@ -1,10 +1,11 @@
 {
-  "realm": "myssorealm",
-  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0KyTB2F+/mdJDw0X4piXrXJxezv6PPhNrvpR1BSTQHfRS/c3HvRO675lygbPSj8FEmi7fETAU0CRrh3TVJuN5rLTyskXT75BxOjDNAceBPAM4wmQ0pOe6MIO1KsAETHwR4ZtOWzdLMbwuWHuX26oF3s4vJJ/u7NTcSdKCKwoIO2Cp9b9BIsCH92+rY3tE0f9DZebYwP3igmvtXBWdwO2oZABBWFCnz887u8ePx+IZMEUoPivR5xh576apUwyxdka3T3e9k+LjWxunBn/etXuqMic1XZp82pKzE4M1ZN/CCaJfrnheCXwp9lavXkQiBuu+G7QMPQEBluwQyKXFx6w6QIDAQAB",
-  "auth-server-url": "http://sso-sso.rhcloud.example.com/auth",
+  "realm": "nodejs",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxKR8yT7K1w/K2s/nxnFSx08qzHxzEy6haMvXKovYKwP2TgBjvJnH3EW8oG61b64Z1ENmeeqSn9K5W+fXt24n3sL95hT+K6ouGU8yamG29B3l5lzxvTm24rDpzgjrHc7UcRdQqe5rOQirCmeYvny3nYqGlQW7NRK0O65BUxCG4OSyHY6zKVndj4xH1qNY8DEUXL8Rs3WUg9bVv4enm0esaHckP633mW1J7XYVujPtWJOIEZXOoVKdSPppjPsyM0o6o8e8BngmLpHfsTgU2YEvEHAPG0ejKId9FwZJg4zkwGdxGhUFxHkE6+rIerGa/B+Vy4Y0jJ/Sq8zgEIm9ghh6awIDAQAB",
+  "auth-server-url": "http://sso-sso.atmy.openshift.cloud/auth",
   "ssl-required": "external",
-  "resource": "nodejs-example",
+  "resource": "nodejs",
   "credentials": {
-    "secret": "eee3d4f3-992a-4788-a851-d66863773751"
-  }
+    "secret": "88e922e1-a49a-4269-ba92-f3d8d73e16e9"
+  },
+  "confidential-port": 0
 }
