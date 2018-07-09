@@ -1,7 +1,7 @@
 {
   "realm": "nodejs",
   "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxKR8yT7K1w/K2s/nxnFSx08qzHxzEy6haMvXKovYKwP2TgBjvJnH3EW8oG61b64Z1ENmeeqSn9K5W+fXt24n3sL95hT+K6ouGU8yamG29B3l5lzxvTm24rDpzgjrHc7UcRdQqe5rOQirCmeYvny3nYqGlQW7NRK0O65BUxCG4OSyHY6zKVndj4xH1qNY8DEUXL8Rs3WUg9bVv4enm0esaHckP633mW1J7XYVujPtWJOIEZXOoVKdSPppjPsyM0o6o8e8BngmLpHfsTgU2YEvEHAPG0ejKId9FwZJg4zkwGdxGhUFxHkE6+rIerGa/B+Vy4Y0jJ/Sq8zgEIm9ghh6awIDAQAB",
-  "auth-server-url": "https://secure-sso-sso.atmy.openshift.cloud/auth",
+  "auth-server-url": "http://sso-sso.atmy.openshift.cloud/auth",
   "ssl-required": "external",
   "resource": "nodejs",
   "public-client": true,
